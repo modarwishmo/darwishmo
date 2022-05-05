@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/darwishmo/static/css/main.7e50ef11.css",
+    "main.js": "/darwishmo/static/js/main.b1ee1349.js",
+    "static/media/ElGhazala.mp3": "/darwishmo/static/media/ElGhazala.806a34a7dec7bb0070f2.mp3",
+    "static/media/me.png": "/darwishmo/static/media/me.821ecddcb9953b46bf75.png",
+    "static/media/MCV.pdf": "/darwishmo/static/media/MCV.cdc5d6dc1ac1984550f4.pdf",
+    "static/media/meb.jpg": "/darwishmo/static/media/meb.839928276b844783fb03.jpg",
+    "static/media/portfolio2.jpg": "/darwishmo/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
+    "static/media/portfolio1.jpg": "/darwishmo/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
+    "static/media/portfolio3.jpg": "/darwishmo/static/media/portfolio3.cbab42559fe73e73906f.jpg",
+    "index.html": "/darwishmo/index.html",
+    "main.7e50ef11.css.map": "/darwishmo/static/css/main.7e50ef11.css.map",
+    "main.b1ee1349.js.map": "/darwishmo/static/js/main.b1ee1349.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e50ef11.css",
+    "static/js/main.b1ee1349.js"
+  ]
+}
